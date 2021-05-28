@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Start code here -->
+        <title> Intro to Linda </title>
+    </head>
+    <body bgcolor="Ivory" >
+        <p>  <!-- start of paragraph -->
+            <h1 style="color: DarkBlue;"> Hoi allemaal </h1>
+            <img width="490" height="150" src="https://image.freepik.com/free-vector/pop-art-comics-icon-hello-speech-bubble_175838-555.jpg">
+            <h2 style="color: DarkBlue;"> Mijn naam is Linda </h2>
+            <h3 style="color: DarkBlue;"> Ik ben net begonnen met de Winc cursus: Web development </h3>
+
+        <hr/> <!-- line under previous text -->
+        </p> <!-- end of paragraph -->
+
+        <p> <!-- start of paragraph -->
+            <ul > <!-- List unordered elements <ul> <li> </li> </ul> -->
+            <h4 style="color: DarkGoldenrod;" > Mijn hobbys zijn:</h4>
+            <ul>
+                    <li style="color: goldenrod;" > Tekenen </li>
+                    <li style="color: Goldenrod;" > Fotografie </li>
+                    <li style="color: Goldenrod;" > Hiken </li>
+                </ul>
+            </ul>
+        </p>
+        <p>
+            <div class="row">
+                <img height="140" src="img/Hiking.png" alt="Potlood" align="left" hspace="30">
+                <img height="140" src="img/Fotografie.png" alt="Potlood" align="left" hspace="30">
+                <img height="140" src="img/Potlood.png" alt="Potlood" align="left" hspace="30">
+            </div>
+        </p>
+        <p>
+            <hr/> <!-- line under previous text -->
+            <hr/> <!-- line under previous text -->
+            
+            <h4 style="color: DarkBlue;" > Wil je meer over mij weten ... </h4>
+            <a style="color: DarkGoldenrod; border:4px inset DarkGoldenrod;" href= "about.html">  | klik hier |  </a>
+            
+            
+            <hr/> <!-- line under previous text -->
+            <hr/> <!-- line under previous text -->
+        </p>
+    <br> <br>
+        <hr/> <!-- line under previous text -->
+    </body>
+
+</html>
+
